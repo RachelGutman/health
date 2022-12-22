@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">health-proj</string>
+    <string name="title_activity_main">health-proj</string>
+    <string name="package_name">com.helthtest.app</string>
+    <string name="custom_url_scheme">com.helthtest.app</string>
+</resources>

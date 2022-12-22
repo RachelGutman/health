@@ -1,0 +1,12 @@
+<p>health works!</p>
+<input type="text" [(ngModel)]="querytype" />
+<input type="button" (click)="getValue()" value="run"/>
+{{available}}
+{{authorize}}
+<div *ngFor="let item of res">
+    start: {{item.startDate'}}
+    end: {{item.endDate}}
+    value: {{item.value}}
+
+</div>
+<br/>
