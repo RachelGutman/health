@@ -1,0 +1,6 @@
+{
+	"appId": "com.helthtest.app",
+	"appName": "health-proj",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
