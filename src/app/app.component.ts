@@ -31,7 +31,7 @@ export class AppComponent {
     //   });
     // });
 
-    this.androidAndIOS();
+  //  this.androidAndIOS();
   }
 
   androidAndIOS(type: string = '') {
